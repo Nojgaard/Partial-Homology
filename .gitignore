@@ -1,0 +1,6 @@
+data/*
+build/*
+debug/*
+release/*
+lib/*
+.ycm_extra_conf.py
